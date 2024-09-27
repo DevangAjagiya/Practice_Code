@@ -8,3 +8,5 @@ function hello(a,b){
   return a+b;
 }
 console.log( hello(a,b) );
+
+document.body.innerHTML = "<h1>Hello there</h1>";
